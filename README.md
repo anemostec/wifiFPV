@@ -4,7 +4,7 @@
 
 # Getting Started
 
-flash the .img file to a formated SD card
+flash the .img file from the following link https://e1.pcloud.link/publink/show?code=XZQpMpZMdBxNyOr5Ty5VnadfuMRMBDVdB9V to a formated SD card
 Put the SD card in your raspberry pi (it could be a raspberry pi zero)
 Verify that the camera is well connected
 Verify that a 5.8Ghz wifi usb dongle is well connected
