@@ -10,6 +10,6 @@ Verify that the camera is well connected
 Verify that a 5.8Ghz wifi usb dongle is well connected
 Plug in the power
 
-After started, connect the wifi hotspot anemos-ap, password anemostec
+After started, with your smartphone, connect to the wifi hotspot anemos-ap, password anemostec
 
-By using FPV_VR you will see the low latency video flowing.
+By using the FPV_VR App you will see the low latency video flowing on port 5600.
